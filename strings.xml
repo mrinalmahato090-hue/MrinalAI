@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MRINAL AI</string>
+    <string name="accessibility_service_description">Provides user-authorized accessibility controls for MRINAL AI.</string>
+</resources>
